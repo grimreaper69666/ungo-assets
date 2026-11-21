@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="Polly.Joanna">You have reached Go OON go support line. We do not take support calls by phone. Please visit Go OON go dot com, log in, and send a ticket through the support portal. An agent will reply to you shortly.</Say>
-  <Say voice="Polly.Joanna">Thank you for choosing Go OON go. We look forward to hearing from you.</Say>
+  <Say voice="Polly.Matthew">You have reached Go OON go support line. We do not take support calls by phone. Please visit Go OON go dot com, log in, and send a ticket through the support portal. An agent will reply to you shortly.</Say>
+  <Say voice="Polly.Matthew">Thank you for choosing Go OON go. We look forward to hearing from you.</Say>
   <Hangup/>
 </Response>
